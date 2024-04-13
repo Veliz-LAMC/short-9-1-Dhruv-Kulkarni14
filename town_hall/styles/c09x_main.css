@@ -213,8 +213,8 @@ footer p {
 	aside {
 	    order: 2;
 		padding-right: 2.5%;
-		padding-left: 2.5%;
-		width: 90%;
+		margin-left: 2.5%;
+		width: 95%;
 	}
 	article img { max-width: 30%; }
 	#speakers {
